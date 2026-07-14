@@ -22,10 +22,8 @@ Backend-first: Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes (k3s)
 Also comfortable in: TypeScript, Next.js, React, PostGIS, FAISS
 
 ---
-
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiBui2003&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)](https://github.com/ShiBui2003)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiBui2003&layout=compact&theme=dracula&hide_border=true&bg_color=00000000)](https://github.com/ShiBui2003)
-
 ---
 
 [LinkedIn](https://linkedin.com/in/rahul-jha-a256a6212) · [LeetCode](https://leetcode.com/u/ShiBui/) · irahul.jha.007@gmail.com
