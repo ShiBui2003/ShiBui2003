@@ -23,10 +23,8 @@ Also comfortable in: TypeScript, Next.js, React, PostGIS, FAISS
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShiBui2003&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000#gh-dark-mode-only" alt="Rahul's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ShiBui2003&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="Rahul's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiBui2003&layout=compact&theme=dracula&hide_border=true&bg_color=00000000#gh-dark-mode-only" alt="Top languages" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiBui2003&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top languages" height="165"/>
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiBui2003&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)](https://github.com/ShiBui2003)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiBui2003&layout=compact&theme=dracula&hide_border=true&bg_color=00000000)](https://github.com/ShiBui2003)
 
 ---
 
