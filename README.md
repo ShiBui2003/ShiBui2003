@@ -1,9 +1,6 @@
-<!-- Optional banner: drop your own gif link here, keep height under 300px -->
-<!--
 <div align="center">
-  <img height="250" src="YOUR_GIF_LINK_HERE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Rahul%20Jha&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Backend%20%26%20Systems&descAlignY=55&descSize=18" width="100%"/>
 </div>
--->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rahul+Jha;Full-Stack+%7C+Backend+%26+Systems;Building+STRIDE%2C+Civik%2C+RediSearch;BTech+CS+%40+Bennett+University" alt="Typing SVG" />
