@@ -96,4 +96,5 @@ I'm <strong>Rahul Jha</strong>, a full stack and backend engineer. I work throug
   <a href="https://linkedin.com/in/rahul-jha-a256a6212" target="_blank">🔗 LinkedIn</a> •
   <a href="https://leetcode.com/u/ShiBui/" target="_blank">🧩 LeetCode</a> •
   <a href="mailto:irahul.jha.007@gmail.com" target="_blank">✉️ Email</a>
+  <a href="https://rahuljha07.netlify.app/" target="_blank">✉️ Portfolio</a>
 </p>
