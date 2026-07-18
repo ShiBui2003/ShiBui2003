@@ -15,6 +15,16 @@ I'm <strong>Rahul Jha</strong>, a full stack and backend engineer. I work throug
 </h4>
 
 ---
+<p align="center">
+  <strong>Let's connect and build something real.</strong> <br>
+  <a href="https://github.com/ShiBui2003" target="_blank">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/rahul-jha-a256a6212" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://leetcode.com/u/ShiBui/" target="_blank">🧩 LeetCode</a> •
+  <a href="mailto:irahul.jha.007@gmail.com" target="_blank">✉️ Email</a>
+  <a href="https://rahuljha07.netlify.app/" target="_blank">🔗Portfolio</a>
+</p>
+
+---
 
 ### 🚀 What I Do
 
@@ -89,12 +99,3 @@ I'm <strong>Rahul Jha</strong>, a full stack and backend engineer. I work throug
 </p>
 
 ---
-
-<p align="center">
-  <strong>Let's connect and build something real.</strong> <br>
-  <a href="https://github.com/ShiBui2003" target="_blank">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/rahul-jha-a256a6212" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://leetcode.com/u/ShiBui/" target="_blank">🧩 LeetCode</a> •
-  <a href="mailto:irahul.jha.007@gmail.com" target="_blank">✉️ Email</a>
-  <a href="https://rahuljha07.netlify.app/" target="_blank">✉️ Portfolio</a>
-</p>
