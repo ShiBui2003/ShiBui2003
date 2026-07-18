@@ -20,9 +20,22 @@ I'm <strong>Rahul Jha</strong>, a full stack and backend engineer. I work throug
   <a href="https://github.com/ShiBui2003" target="_blank">💻 GitHub</a> •
   <a href="https://linkedin.com/in/rahul-jha-a256a6212" target="_blank">🔗 LinkedIn</a> •
   <a href="https://leetcode.com/u/ShiBui/" target="_blank">🧩 LeetCode</a> •
-  <a href="mailto:irahul.jha.007@gmail.com" target="_blank">✉️ Email</a>
+  <a href="mailto:irahul.jha.007@gmail.com" target="_blank">✉️ Email</a> •
   <a href="https://rahuljha07.netlify.app/" target="_blank">🔗Portfolio</a>
 </p>
+
+---
+
+<h2 align="center">💼 Building With</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20PostgreSQL-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Search-Hybrid%20%7C%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20k3s%20%7C%20Azure-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+---
 
 ---
 
@@ -89,13 +102,3 @@ I'm <strong>Rahul Jha</strong>, a full stack and backend engineer. I work throug
 
 ---
 
-<h2 align="center">💼 Building With</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20PostgreSQL-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Search-Hybrid%20%7C%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20k3s%20%7C%20Azure-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
----
